@@ -25,7 +25,7 @@ This script displays a red dot in the top right corner of your screen whenever r
 
 3. **Download the Script:**
 
-   - Save the script file as `status-overlay.py` or any name you prefer.
+   - Save the script file as `red-dot-obs.py` or any name you prefer.
 
 ## Usage
 
@@ -33,7 +33,7 @@ This script displays a red dot in the top right corner of your screen whenever r
 
    - Open OBS Studio.
    - Go to `Tools` -> `Scripts`.
-   - Click the `+` button and select the script file you saved earlier (`status-overlay.py`).
+   - Click the `+` button and select the script file you saved earlier (`red-dot-obs.py`).
    - Ensure the script is enabled and running.
 
 2. **Start Recording:**
