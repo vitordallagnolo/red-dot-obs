@@ -7,7 +7,7 @@ This script displays a red dot in the top right corner of your screen whenever r
 ## Requirements
 
 - OBS Studio with Python scripting enabled
-- Python 3.x installed on your system
+- Python >= 3.6  installed on your system
 - Tkinter library (usually comes with Python)
 
 ## Installation
